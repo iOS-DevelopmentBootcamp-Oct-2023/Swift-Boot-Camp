@@ -16,3 +16,19 @@
 
 - **Community and Collaboration:** Engage with your fellow participants, share ideas, ask questions, and learn from each other. The community is here to support you!
 </h4>
+
+<h2>
+ ## Let's Get Coding!
+</h2>
+<h4>
+ We're excited to see what amazing projects you'll build with Swift. Happy coding!🤩
+</h4>
+
+<h2>
+  ## You can check the link below for the content!🔗
+</h2>
+
+<h3>
+ <a href="[https://www.w3schools.com/](https://docs.google.com/presentation/d/11xZOpp-TZzFns2ByBaLO2lNdIbDfOsAxfsAW2oaMOgQ/edit#slide=id.g289a32d1c5b_0_53)https://docs.google.com/presentation/d/11xZOpp-TZzFns2ByBaLO2lNdIbDfOsAxfsAW2oaMOgQ/edit#slide=id.g289a32d1c5b_0_53">Visit W3Schools.com!</a>
+</h3>
+
