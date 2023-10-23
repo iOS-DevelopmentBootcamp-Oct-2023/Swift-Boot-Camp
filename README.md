@@ -32,4 +32,31 @@
  We're excited to see what amazing projects you'll build with Swift. Happy coding!🤩
 </h4>
 
+<h2>
+  ## Human Interface Guidelines!
+</h2>
+<h4>
+ Here, each person has a topic from the Human Interface Guidelines
+At the beginning of each day, each student will give a presentation according to the assigned topic to you 🤓.
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+ 
+</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
