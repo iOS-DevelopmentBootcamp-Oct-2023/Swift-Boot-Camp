@@ -6,11 +6,12 @@
 
 <h2>
   ## What to Expect 🤔
+</h2>
 
-- **Comprehensive Learning:** We'll cover everything from the basics to advanced topics in Swift programming, ensuring you have a solid foundation.
+<h4>
+ - **Comprehensive Learning:** We'll cover everything from the basics to advanced topics in Swift programming, ensuring you have a solid foundation.
 
 - **Hands-On Coding:** Get ready to dive into practical exercises and projects that will reinforce your learning and help you become a proficient Swift developer.
 
 - **Community and Collaboration:** Engage with your fellow participants, share ideas, ask questions, and learn from each other. The community is here to support you!
-
-</h2>
+</h4>
