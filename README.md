@@ -22,7 +22,7 @@
 </h2>
 
 <h3>
- <a href="https://www.w3schools.com/](https://docs.google.com/presentation/d/11xZOpp-TZzFns2ByBaLO2lNdIbDfOsAxfsAW2oaMOgQ/edit#slide=id.g289a32d1c5b_0_53)https://docs.google.com/presentation/d/11xZOpp-TZzFns2ByBaLO2lNdIbDfOsAxfsAW2oaMOgQ/edit#slide=id.g289a32d1c5b_0_53">Click Me</a>
+ <a href="https://docs.google.com/presentation/d/11xZOpp-TZzFns2ByBaLO2lNdIbDfOsAxfsAW2oaMOgQ/edit#slide=id.g289a32d1c5b_0_53">Click Me</a>
 </h3>
 
 <h2>
