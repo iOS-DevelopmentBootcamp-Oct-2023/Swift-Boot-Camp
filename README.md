@@ -42,7 +42,7 @@ At the beginning of each day, each student will give a presentation according to
 <h3>
 | Name          | Topic         |
 | ------------- | ------------- |
-| الجوهره  | Content Cell  |
+| saad          | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
