@@ -32,32 +32,6 @@
  We're excited to see what amazing projects you'll build with Swift. Happy coding!🤩
 </h4>
 
-<h2>
-  ## Human Interface Guidelines!
-</h2>
-<h4>
- Here, each person has a topic from the Human Interface Guidelines
-At the beginning of each day, each student will give a presentation according to the assigned topic to you 🤓.
-</h4>
-<h3>
- 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git diff` | Show file differences that **haven't been** staged |
-| `git diff` | Show file differences that **haven't been** staged |
-</h3>
-
- 
-
-
-
-
 
 
 
